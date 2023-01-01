@@ -2,6 +2,8 @@
 
 The ideology/fantasy of city 3.0.
 
+![](https://images.rawpixel.com/image_1000/czNmcy1wcml2YXRlL3Jhd3BpeGVsX2ltYWdlcy93ZWJzaXRlX2NvbnRlbnQvbHIvcGRtZXQtanVsaWFuLTA3LWdsb3kuanBn.jpg)
+
 ## What is City3.0?
 
 Think of it as an advanced city primarily inhabited by computer geeks.
